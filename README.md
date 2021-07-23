@@ -17,12 +17,10 @@ Task Video: https://www.loom.com/share/9106739b55644f75a3e2fac8f5812f44
 
 Button classes to use:
 
-btn border-btn
-btn bg-btn
+1. btn border-btn
+2. btn bg-btn
 
-Icon classes to use:
-
-btn light-btn
+Icon class to use: btn light-btn
 
 **REFERENCES**
 
